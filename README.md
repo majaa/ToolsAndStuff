@@ -1,7 +1,9 @@
 # ToolsAndStuff
 
-JetBrains DataGrip
-JetBrains PyCharm
+JetBrains 
+DataGrip
+JetBrains 
+PyCharm
 
 Atom
 ConEmu
